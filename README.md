@@ -1,13 +1,7 @@
-# 📖📖 Flutter eBook App [![Codemagic build status](https://api.codemagic.io/apps/5e230defc5faa60315b1df62/5e230defc5faa60315b1df61/status_badge.svg)](https://codemagic.io/apps/5e230defc5faa60315b1df62/5e230defc5faa60315b1df61/latest_build)
+#  Flutter eBook App 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
 
-A simple Flutter app to Read and Download books. The Books included in the app
-are from the [Public Domain](https://en.wikipedia.org/wiki/Public_domain)
-(Expired Copyright and completely free).
-
-<a href="http://www.feedbooks.com/"><img src="ss/logo_feedbooks.png" width="200"/></a>
-<br>
+A simple Flutter app to Read and Download books. 
 
 The [Feedbooks API](http://www.feedbooks.com/api) was used to fetch books. <br>
 <br>
@@ -16,14 +10,6 @@ icon</a> <br> <br>
 To download this app, <a href="https://codemagic.io/apps/5e230defc5faa60315b1df62/5e230defc5faa60315b1df61/latest_build">click here</a> to see the codemagic builds. You can choose to install the `apk` or the `ipa(ios)`.
 <!--
 <a href="https://play.google.com/store/apps/details?id=dev.jideguru.flutterEbookApp"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200"></img></a> -->
-<br> Please star⭐ the repo if you like what you see😉.
-
-## 💻 Requirements
-
-- Any Operating System (ie. MacOS X, Linux, Windows)
-- Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
-- A little knowledge of Dart and Flutter
-
 ## ✨ Features
 
 - [x] Download eBooks.
@@ -58,15 +44,5 @@ To download this app, <a href="https://codemagic.io/apps/5e230defc5faa60315b1df6
 
 ## 🤓 Author(s)
 
-**Festus Babajide Olusegun**
-[![Twitter Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
-
-## 🔖 LICENCE
-
-[Apache-2.0](https://github.com/JideGuru/FlutterEbookApp/blob/master/LICENSE)
-
-
-<a href="https://github.com/JideGuru/FlutterEbookApp">
-        <img width="500" alt="Star History Chart" src="https://api.star-history.com/svg?repos=JideGuru/FlutterEbookApp&type=Date">
-      </a> 
+**Syed Mujtaba Mussavi**
 
